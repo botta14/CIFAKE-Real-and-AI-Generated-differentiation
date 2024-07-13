@@ -61,7 +61,7 @@ The custom CNN and MobileNetV2 models were both trained and evaluated on the CIF
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AbdooMohamedd/CIFAKE-Real-and-AI-Generated-differentiation.git
+    git clone https://github.com/botta14/CIFAKE-Real-and-AI-Generated-differentiation.git
     ```
 
 2. Navigate to the project directory:
@@ -80,7 +80,7 @@ Contributions are welcome! Please contact me for more details on how to contribu
 
 ## Contact
 
-For any questions or inquiries, please contact me at [abdelrahman.mohamed1081@gmail.com](mailto:abdelrahman.mohamed1081@gmail.com).
+For any questions or inquiries, please contact me at [botabatoot7@gmail.com](mailto:botabatoot7@gmail.com).
 
 ## Acknowledgments
 
